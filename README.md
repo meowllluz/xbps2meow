@@ -68,6 +68,16 @@ go build -o xbps2meow .
 
 Requires Go 1.27+; the only dependency is `howett.net/plist`.
 
+## About the project
+
+A personal project by one person, with an AI agent writing most of the code from a
+text description of the intended behaviour. Made for the author's own needs and
+published as is. Issues are welcome.
+
+Everything published here is marked `*by AI agent`.
+
 ## License
 
 GNU GPL v2 — see [LICENSE](LICENSE).
+
+*by AI agent
